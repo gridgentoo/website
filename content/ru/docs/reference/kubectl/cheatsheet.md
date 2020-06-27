@@ -388,3 +388,6 @@ kubectl api-resources --api-group=extensions # Все ресурсы в API-гр
 * Посмотреть [шпаргалки по kubectl](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) сообщества.
 
 
+# показать объединённые настройки kubeconfig
+kubectl config view
+
